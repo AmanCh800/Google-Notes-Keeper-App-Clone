@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/AmanCh800/Google-Notes-Keeper-App-Clone/static/js/main.20d15180.js",
-    "index.html": "/AmanCh800/Google-Notes-Keeper-App-Clone/index.html",
-    "main.20d15180.js.map": "/AmanCh800/Google-Notes-Keeper-App-Clone/static/js/main.20d15180.js.map"
+    "main.js": "/Google-Notes-Keeper-App-Clone/static/js/main.20d15180.js",
+    "index.html": "/Google-Notes-Keeper-App-Clone/index.html",
+    "main.20d15180.js.map": "/Google-Notes-Keeper-App-Clone/static/js/main.20d15180.js.map"
   },
   "entrypoints": [
     "static/js/main.20d15180.js"
