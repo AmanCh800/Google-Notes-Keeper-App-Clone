@@ -1,7 +1,7 @@
 {
   "name": "keeper",
   "version": "0.1.0",
-  "homepage": "https://github.com/AmanCh800/Google-Notes-Keeper-App-Clone",
+  "homepage": "https://amanch800.github.io/Google-Notes-Keeper-App-Clone",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
